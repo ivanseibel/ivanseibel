@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ...
 
 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ivanseibel/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMnTeDsULTg6XWDHsA2lMQw%3D%3D) or [email](mailto:me@ivanseibel.dev)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ivanseibel/) or [email](mailto:me@ivanseibel.dev)
 
 
