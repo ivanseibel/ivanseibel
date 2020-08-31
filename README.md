@@ -1,10 +1,9 @@
 ### Hi there :raised_hand:
 
-I am a full-stack dev and the techs that I have I'm a full-stack developer with expertise in JavaScript / TypeScript, Node.js, ReactJS and React Native technologies.
+My name is Ivan Seibel and I'm a full-stack developer with more than 15 years of experience and completely passionate about what I do.
 
-What I'm doing:
+Since 2017 I have been dedicating a lot of time and money to specialize in that stack that I consider the most productive to build complete solutions for web and mobile: Node.js, ReactJS and React Native.
 
-- 🔭 I am currently working on small projects as a freelance developer and open to new oportunities.
-- 🌱 My focus of learning right now is on cloud services, such as those provided by IBM, AWS and Google.
+During this journey I also had the opportunity to learn more about frameworks, tools, libraries and all kind of stuff that support the JavaScript as a powerful language for web.
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ivanseibel/) or [email](mailto:me@ivanseibel.dev)
