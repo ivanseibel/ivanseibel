@@ -1,6 +1,6 @@
 ### Hi there :raised_hand:
 
-My name is Ivan Seibel and I'm a full-stack developer with more than 15 years of experience and completely passionate about what I do.
+My name is Ivan Seibel and I'm a full-stack developer with about 20 years of experience and completely passionate about what I do.
 
 Since 2017 I have been dedicating a lot of time and money to specialize in that stack that I consider the most productive to build complete solutions for web and mobile: Node.js, ReactJS and React Native.
 
