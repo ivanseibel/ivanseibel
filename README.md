@@ -10,4 +10,4 @@ This is my laboratory and my playground, feel free to snoop, use and share whate
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ivanseibel/) or [email](mailto:me@ivanseibel.dev)
 
-![Ivans's github stats](https://github-readme-stats.vercel.app/api?username=ivanseibel)
+![Ivans's github stats](https://github-readme-stats.vercel.app/api?username=ivanseibel&theme=dracula)
