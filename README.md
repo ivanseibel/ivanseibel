@@ -9,3 +9,5 @@ During this journey I also had the opportunity to learn more about frameworks, t
 This is my laboratory and my playground, feel free to snoop, use and share whatever content you find useful for you. ;)
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ivanseibel/) or [email](mailto:me@ivanseibel.dev)
+
+![Ivans's github stats](https://github-readme-stats.vercel.app/api?username=ivanseibel)
