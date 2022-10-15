@@ -2,7 +2,7 @@
 
 My name is Ivan Seibel and I'm a full-stack developer with about 20 years of experience and completely passionate about what I do.
 
-Since 2017 I have been dedicating a lot of time and money to specialize in that stack that I consider the most productive to build complete solutions for web and mobile: Node.js, ReactJS and React Native.
+Since 2017, I have been investing a lot of effort in becoming a specialist in the Node.js, ReactJS, and React Native technology stack, which in my opinion is the most productive for developing integrated web and mobile applications.
 
 During this journey I also had the opportunity to learn more about frameworks, tools, libraries and all kind of stuff that support the JavaScript as a powerful language for web.
 
